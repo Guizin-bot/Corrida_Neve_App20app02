@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.schutzgui2707.Corrida_Neve_20App_02"gui
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Corrida-Neve</name>
+
+  <description>
+      corrida de corrida inutil
+  </description>
+
+  <author href="https://build.phonegap.com" email="guilher0810@gmail.com">
+      	Guilherme José
+  </author>
+                <icon scr="icon.png" /> 
+</widget>
